@@ -17,6 +17,6 @@ Se sei a corto di idee per lo stile, potresti prendere spunto dallo screenshot f
 
 - genero un ciclo per elaborare i numeri da 1 a 100;
 - li stampo in console;
-- SE il numero è divisibile per 3, sostituisco il numero con Fizz;
+- SE è divisibile per 3 E per 5, sostituisco il numero con FizzBuzz;
 - ALTRIMENTI SE il numero è divisibile per 5, sostituisco il numero con Buzz;
-- ALTRIMENTI SE è divisibile per 3 E per 5, sostituisco il numero con FizzBuzz;
+- SE il numero è divisibile per 3, sostituisco il numero con Fizz;
